@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-no name XD is pro
-=======
-insame repo XD
->>>>>>> dev
+<<<<<<< TIDAL <<<<<<<
+>>>>>>> WAVE >>>>>>
